@@ -23,8 +23,17 @@ def header() :
     """ + default)
     
 # Função para limpar o terminal 
-def x() : 
-    os.system('clear')
+def x():
+    from os import system
+    import platform
+    a = platform.system()
+
+    if a == 'Windows':
+        system('cls')
+
+    elif a == 'Linux':
+        system('clear')
+    
     return header()
 
 # Função para dar um timer entre limpar o terminal 
