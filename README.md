@@ -2,10 +2,16 @@
 
 Este projeto contém uma lista de exercícios resolvidos em Python, com foco em lógica de programação e estruturas de controle. O menu principal permite escolher e executar cada exercício individualmente.
 
+<h1 align="center">
+  Checkpoint - Cloud Programming
+</h1>
+
+![image](https://github.com/user-attachments/assets/bb07babc-4e1c-4666-af2a-f8a2b71798f1)
+
 ## Estrutura
 
 - Cada exercício está em um arquivo separado (`ex01.py`, `ex02.py`, ..., `ex08.py`).
-- Funções utilitárias e de interface estão em [`funcoes.py`](funcoes.py).
+- Funções utilitárias e de interface estão em [`functions.py`](functions.py).
 - O arquivo principal para execução é o [`main.py`](main.py).
 
 ## Como Executar
