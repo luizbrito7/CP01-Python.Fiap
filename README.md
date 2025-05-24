@@ -12,7 +12,6 @@ Este projeto contém uma lista de exercícios resolvidos em Python, com foco em 
 
 1. **Pré-requisitos:**  
    - Python 3 instalado (recomendado Python 3.10+).
-   - Sistema operacional compatível com o comando `clear` (Linux/Mac). Para Windows, altere para `cls` em [`funcoes.py`](funcoes.py) se necessário.
 
 2. **Clone o repositório ou baixe os arquivos.**
 
